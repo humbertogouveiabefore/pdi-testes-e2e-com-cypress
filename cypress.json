@@ -1,0 +1,11 @@
+{
+    "baseUrl": "https://notes-serverless-app.com",
+    "experimentalSessionSupport": true,
+    "chromeWebSecurity": false,
+    "experimetalStudio": true,
+    "env": {
+        "viewportWidthBreakpoint": 768
+      }
+      
+
+}
