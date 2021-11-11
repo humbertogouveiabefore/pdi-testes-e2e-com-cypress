@@ -35,7 +35,7 @@ describe('Scenarios where authentication is a pre-requirement', () => {
   })
 
 
-  describe.only('Scenarios where authentication is a pre-requirement', () => {
+  describe('Scenarios where authentication is a pre-requirement', () => {
 
 
     it('logs out', () => {
