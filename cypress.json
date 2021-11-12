@@ -1,5 +1,8 @@
 {
     "baseUrl": "https://notes-serverless-app.com",
+    "projectId": "4uht24",
+
+
     "experimentalSessionSupport": true,
     "chromeWebSecurity": false,
     "experimetalStudio": true,
@@ -7,5 +10,6 @@
         "viewportWidthBreakpoint": 768
       }
       
+    
 
 }
